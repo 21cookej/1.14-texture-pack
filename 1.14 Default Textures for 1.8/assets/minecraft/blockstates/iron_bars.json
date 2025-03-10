@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "iron_bars" }
+    }
+}
